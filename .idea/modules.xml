@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/csp1/csp1.iml" filepath="$PROJECT_DIR$/csp1/csp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csp2/csp2.iml" filepath="$PROJECT_DIR$/csp2/csp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csp3/csp3.iml" filepath="$PROJECT_DIR$/csp3/csp3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csp4/csp4.iml" filepath="$PROJECT_DIR$/csp4/csp4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csp5/csp5.iml" filepath="$PROJECT_DIR$/csp5/csp5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csp6/csp6.iml" filepath="$PROJECT_DIR$/csp6/csp6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csp9/csp9.iml" filepath="$PROJECT_DIR$/csp9/csp9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
